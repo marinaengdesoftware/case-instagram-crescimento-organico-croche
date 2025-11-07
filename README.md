@@ -7,7 +7,7 @@ O processo foi simples:
 - Uma das imagens viralizou organicamente.
 - Isso gerou alcance internacional, interações e crescimento de seguidores — tudo sem anúncio.
 
-## 🚀 Resultados
+##  Resultados
 
 | Métrica | Resultado |
 |-------|-----------|
@@ -23,13 +23,13 @@ O processo foi simples:
 | Visitas ao perfil | **7.398** |
 | Cliques em link externo | **298** |
 
-## 📊 Print do post viral
+##  Print do post viral
 <img width="619" height="408" alt="image" src="https://github.com/user-attachments/assets/c1c6bd8b-f8f0-413c-8b50-6b5cf26f3423" />
 
 
 
 
-## 📈 Provas visuais (prints dos insights estão incluídos na pasta /prints)
+##  Provas visuais (prints dos insights estão incluídos na pasta /prints)
 
 - Alcance orgânico global
 - Interações
@@ -38,7 +38,7 @@ O processo foi simples:
 - Principais países e cidades do público
 - Percentual de seguidores vs não seguidores
 
-## 🎯 Observação
+##  Observação
 **Nenhum anúncio foi utilizado.**
 Todo o resultado foi obtido **exclusivamente através de conteúdo**.
 
