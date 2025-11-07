@@ -1,4 +1,4 @@
-# Case: Crescimento Orgânico Instagram — Crochet Chic Patterns
+# Case: Crescimento Orgânico Instagram — @crochetchicpatterns
 
 Este case mostra o desempenho real de uma estratégia de conteúdo orgânico no Instagram, aplicada no perfil **Crochet Chic Patterns**.
 
