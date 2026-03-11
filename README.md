@@ -64,9 +64,98 @@ sinais de engajamento geraram expansão algorítmica.
 
 ![Post 2](images/post_2.png)
 
+| Métrica | Resultado |
+|------|------|
+| Visualizações | 212.264 |
+| Tempo total de visualização | 9d 23h 27min 35s |
+| Interações | 9.104 |
+| Atividade do perfil | 1.212 |
+| Público seguidor | 5,8% |
+| Público não seguidor | 94,2% |
+
+| Sinal Algorítmico | Interpretação |
+|------|------|
+| Alto volume de visualizações | Conteúdo distribuído para além da base de seguidores |
+| Alto tempo total de visualização | Forte retenção agregada ao longo do tempo |
+| Número elevado de interações | Indício de interesse ativo do público |
+| Baixa porcentagem de seguidores | Alcance majoritário em novos públicos |
+| Alta atividade no perfil | Conversão de interesse em visitas ao perfil |
+
+O conteúdo apresentou forte distribuição algorítmica, alcançando majoritariamente usuários que ainda não seguiam o perfil.
+
+A alta proporção de público não seguidor (94,2%) indica que o conteúdo foi testado e distribuído para novos clusters de audiência dentro do sistema de recomendação da plataforma.
+
+O volume de interações combinado ao tempo total de visualização sugere que o conteúdo conseguiu manter atenção suficiente para gerar sinais positivos de engajamento.
+
+Esse padrão é consistente com conteúdos que passam por ciclos de expansão algorítmica em plataformas baseadas em recomendação.
+
+
+
+
 ![Post 3](images/post_3.png)
+| Métrica | Resultado |
+|------|------|
+| Visualizações | 465.450 |
+| Tempo total de visualização | 23d 11h 43min 48s |
+| Interações | 18.234 |
+| Curtidas | 7.500 |
+| Comentários | 206 |
+| Compartilhamentos | 4.000 |
+| Reposts | 157 |
+| Salvamentos | 6.400 |
+| Atividade do perfil | 2.819 |
+
+| Sinal Algorítmico | Interpretação |
+|------|------|
+| Alto volume de visualizações | Forte distribuição no sistema de recomendação |
+| Alto tempo total de visualização | Conteúdo manteve retenção agregada ao longo do tempo |
+| Alto número de salvamentos | Conteúdo percebido como útil ou inspirador |
+| Alto número de compartilhamentos | Forte potencial de redistribuição entre usuários |
+| Interações elevadas | Indício de engajamento ativo |
+| Conversões para perfil | Conteúdo despertou interesse adicional no criador |
+
+O conteúdo apresentou forte desempenho dentro do sistema de recomendação da plataforma, atingindo mais de 465 mil visualizações.
+
+O alto volume de salvamentos e compartilhamentos indica que o conteúdo foi interpretado como relevante para redistribuição entre redes de usuários.
+
+O tempo total de visualização acumulado demonstra que o conteúdo conseguiu manter atenção suficiente para gerar sinais positivos de retenção.
+
+Esses fatores combinados contribuem para ciclos de expansão algorítmica em plataformas baseadas em recomendação, ampliando o alcance do conteúdo para novas audiências.
+
+
+
 
 ![Post 4](images/post_4.png)
+
+| Métrica | Resultado |
+|------|------|
+| Visualizações | 172.698 |
+| Tempo total de visualização | 8d 4h 23min 42s |
+| Interações | 5.371 |
+| Curtidas | 2.300 |
+| Comentários | 51 |
+| Compartilhamentos | 929 |
+| Reposts | 79 |
+| Salvamentos | 2.100 |
+| Atividade do perfil | 638 |
+| Sinal Algorítmico | Interpretação |
+|------|------|
+| Volume consistente de visualizações | Conteúdo distribuído para além da base inicial |
+| Salvamentos relevantes | Conteúdo percebido como útil ou inspirador |
+| Compartilhamentos | Indício de redistribuição orgânica entre usuários |
+| Interações totais | Engajamento ativo do público |
+| Atividade no perfil | Conversão de interesse em exploração do criador |
+O conteúdo alcançou mais de 170 mil visualizações, demonstrando capacidade de distribuição dentro do sistema de recomendação da plataforma.
+
+O número de salvamentos e compartilhamentos indica que o conteúdo foi interpretado como relevante para redistribuição entre redes de usuários.
+
+O tempo total de visualização acumulado sugere retenção suficiente para gerar sinais positivos dentro do algoritmo de recomendação.
+
+Esses fatores combinados contribuem para ciclos de ampliação de alcance em plataformas baseadas em recomendação algorítmica.
+
+
+
+
 
 ![Post 5](images/post_5.png)
 
