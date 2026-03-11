@@ -14,6 +14,53 @@ A estratégia foi baseada em:
 - ### Sequência de posts analisada
 
 ![Post 1](images/post_1.png)
+## Métricas do Post Viral
+
+| Métrica | Resultado |
+|------|------|
+| Visualizações | 1.145.557 |
+| Curtidas | 13.000 |
+| Comentários | 308 |
+| Compartilhamentos | 6.900 |
+| Remix / Repost | 575 |
+| Salvamentos | 11.000 |
+| Reposts / Remix | 575 |
+11 mil salvamentos
+
+6,9 mil compartilhamentos
+
+Essas duas métricas são muito fortes para algoritmo, porque indicam:
+
+utilidade do conteúdo
+
+potencial de redistribuição.
+
+| Sinal Algorítmico | Interpretação |
+|------|------|
+| Alto volume de visualizações | Indica distribuição ampliada para além da base de seguidores |
+| Alto número de salvamentos | Conteúdo percebido como útil ou relevante |
+| Alto número de compartilhamentos | Potencial de redistribuição entre redes de usuários |
+| Curtidas consistentes | Reação emocional positiva ao conteúdo |
+| Comentários | Indício de envolvimento ativo do público |
+| Reposts / Remix | Sinal de conteúdo reutilizável ou inspirador |
+
+
+A combinação de salvamentos elevados e compartilhamentos indica que o conteúdo foi interpretado pelo sistema de recomendação como relevante para novos públicos.
+
+Esses sinais comportamentais aumentam a probabilidade de o algoritmo testar o conteúdo em novos clusters de audiência, ampliando progressivamente sua distribuição.
+
+Esse padrão é consistente com conteúdos que alcançam crescimento orgânico acelerado em plataformas de recomendação.
+
+## Relação com Engenharia de Atenção
+thumbnail capturou atenção
+
+retenção curta favoreceu replay
+
+sinais de engajamento geraram expansão algorítmica.
+
+
+
+
 
 ![Post 2](images/post_2.png)
 
@@ -27,17 +74,7 @@ A estratégia foi baseada em:
 
 
 
-## Métricas do Post Viral
 
-| Métrica | Resultado |
-|------|------|
-| Visualizações | 625.690 |
-| Interações | 11.329 |
-| Salvamentos | 5.229 |
-| Compartilhamentos | 2.373 |
-| Visitas ao perfil | 4.314 |
-| Novos seguidores | +2.117 |
-| Público novo | 98,7% |
 
 ## Relação com Algoritmo
 
