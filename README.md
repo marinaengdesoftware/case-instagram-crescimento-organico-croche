@@ -25,6 +25,7 @@ A estratégia foi baseada em:
 | Remix / Repost | 575 |
 | Salvamentos | 11.000 |
 | Reposts / Remix | 575 |
+
 11 mil salvamentos
 
 6,9 mil compartilhamentos
@@ -154,12 +155,8 @@ O tempo total de visualização acumulado sugere retenção suficiente para gera
 Esses fatores combinados contribuem para ciclos de ampliação de alcance em plataformas baseadas em recomendação algorítmica.
 
 
+## Os demais prints de resultados alcançados com metodologia estão na pasta \images.
 
-
-
-![Post 5](images/post_5.png)
-
-![Post 6](images/post_6.png)
 
 
 
