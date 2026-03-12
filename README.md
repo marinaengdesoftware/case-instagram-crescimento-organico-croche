@@ -1,5 +1,7 @@
 ## Engenharia da Atenção — Modelo de Atenção Humano-Algoritmo
 
+INSTAGRAM: https://www.instagram.com/crochetchicpatterns/
+
 Este documento descreve os princípios de engenharia de atenção utilizados nos experimentos apresentados neste repositório.
 
 A abordagem parte da premissa de que conteúdos digitais de alto desempenho surgem da interação entre dois sistemas distintos:
